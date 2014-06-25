@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#print('Hello World')
+print('Hello World')
 
 def times(x, y):
 	return x * y
